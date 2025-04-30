@@ -1,0 +1,33 @@
+Questionário sobre Git
+Nome: Gabriel Henrique dos Santos Ferreira
+
+Pergunta 1: Explique o que é o Git e por que ele é uma ferramenta importante no desenvolvimento de software.
+Resposta: oque é o git o git e uma ferramenta de controle de versão e ele nosa permite ir e voltar nas aintigas atualizações ,ele é importante pois ele e o responsavel de dar versão ao nosso codigo e responsavel por mandar as nossas atualizações para os nossos repositorios.
+
+Pergunta 2: Descreva o que acontece quando o comando 'git init' é executado dentro de uma pasta.
+Resposta: ele inicia um novo repositorio git 
+
+Pergunta 3: Quais são as etapas básicas para versionar um arquivo novo utilizando o Git? Cite os comandos utilizados e sua função.
+Resposta: primeiro você inicia um repositorio usando o git init depois você adiciona um arquivo e usa o git add . depois de adicionar verifique se funcionou usando git status se estiver verde funcionou depois usa o git commit -m 'adicionei uma pasta' depois vc usa o git push para mandar para o git hub 
+
+Pergunta 4: O que o comando 'git status' mostra? Por que ele é importante durante o processo de versionamento?
+Resposta: o git status mosta oque você adicionou em um repositorio, ele e importante pois ele mostra se o arquivo adicionado esta pronto para dar o commit se estiver verde esta pronto se estiver vermelho significa que esta com erro
+
+Pergunta 5: Descreva o que é a 'área de staging' no Git e como ela funciona.
+Resposta: (sem resposta)
+
+Pergunta 6: Explique a diferença entre os comandos 'git commit' e 'git push', incluindo o que cada um faz no fluxo de trabalho.
+Resposta: O git commit ele informa oque você adicionou de novo no repositorio o git push ele e responsavel para mandar as atualizações para o repositorio remoto 
+
+Pergunta 7: Para que serve o comando 'git clone' e qual a estrutura básica da sua utilização?
+Resposta: o comando git clone serve para clonar repositorios ,sua estrutura basica é git clone url do repositorio
+
+Pergunta 8: Como o Git trata conflitos de merge? O que o desenvolvedor deve fazer quando um conflito é identificado?
+Resposta: quando da algum problema o git trava o processo e mostra os aquivos que esta com problema, com isso devemos resolver 
+
+Pergunta 9: Qual a utilidade do comando 'git log'? Que tipo de informações ele fornece sobre o repositório?
+Resposta: o git log serve para ver o historico de commits
+
+Pergunta 10: Explique a importância do arquivo '.gitignore' e como ele influencia no funcionamento do Git.
+Resposta: para evitar arquivos desnecessarios para que esses arquivos desnecessario não atrapalhem no projeto
+
